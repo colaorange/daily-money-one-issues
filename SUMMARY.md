@@ -15,4 +15,4 @@
   * [喜好設定](cht/preferences.md)
   * [小密技](cht/tips.md)
   * [常見問題](cht/faq.md)
-* [English User Manual (TBD)](english-user-manual-tbd.md)
+* [English User Manual (TBD)]](eng/README.md)
