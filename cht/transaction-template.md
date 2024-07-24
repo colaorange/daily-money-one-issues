@@ -5,16 +5,16 @@
 * 到期通知
 * 快速新增
 
-<img src="imgs/transaction-template-1.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-2.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-3.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-4.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-5.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-6.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-7.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-8.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-9.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-10.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-11.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-12.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-template-13.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
+<img src="imgs/transaction-template-1.png" alt="" width="375">
+<img src="imgs/transaction-template-2.png" alt="" width="375">
+<img src="imgs/transaction-template-3.png" alt="" width="375">
+<img src="imgs/transaction-template-4.png" alt="" width="375">
+<img src="imgs/transaction-template-5.png" alt="" width="375">
+<img src="imgs/transaction-template-6.png" alt="" width="375">
+<img src="imgs/transaction-template-7.png" alt="" width="375">
+<img src="imgs/transaction-template-8.png" alt="" width="375">
+<img src="imgs/transaction-template-9.png" alt="" width="375">
+<img src="imgs/transaction-template-10.png" alt="" width="375">
+<img src="imgs/transaction-template-11.png" alt="" width="375">
+<img src="imgs/transaction-template-12.png" alt="" width="375">
+<img src="imgs/transaction-template-13.png" alt="" width="375">

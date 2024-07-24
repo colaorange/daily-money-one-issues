@@ -8,18 +8,18 @@
 * 垃圾筒, 最後更新列表
 * 匯出XLSX
 
-<img src="imgs/transaction-1.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-2.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-3.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-4.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-5.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-6.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-7.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-8.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-9.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-10.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-11.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-12.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-13.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-14.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
-<img src="imgs/transaction-15.png" style='min-width:400px;width:30vw;text-align:center;border:1px solid lightgray;'>
+<img src="imgs/transaction-1.png" alt="" width="375">
+<img src="imgs/transaction-2.png" alt="" width="375">
+<img src="imgs/transaction-3.png" alt="" width="375">
+<img src="imgs/transaction-4.png" alt="" width="375">
+<img src="imgs/transaction-5.png" alt="" width="375">
+<img src="imgs/transaction-6.png" alt="" width="375">
+<img src="imgs/transaction-7.png" alt="" width="375">
+<img src="imgs/transaction-8.png" alt="" width="375">
+<img src="imgs/transaction-9.png" alt="" width="375">
+<img src="imgs/transaction-10.png" alt="" width="375">
+<img src="imgs/transaction-11.png" alt="" width="375">
+<img src="imgs/transaction-12.png" alt="" width="375">
+<img src="imgs/transaction-13.png" alt="" width="375">
+<img src="imgs/transaction-14.png" alt="" width="375">
+<img src="imgs/transaction-15.png" alt="" width="375">
