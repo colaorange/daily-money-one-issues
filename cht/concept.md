@@ -22,8 +22,8 @@
 
 > 帳目是記錄在不同帳戶間金額轉換的行為，如消費、提款、存款或刷卡，範例：
 >
-> * 薪水匯入銀行：從<mark style="color:white;background-color:green;">收入</mark>帳戶（薪水）到<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（銀行）。
-> * 從銀行領錢：從<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（銀行）到<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（現金）。
-> * 用現金吃飯：從<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（現金）到<mark style="color:white;background-color:red;">支出</mark>帳戶（食物）。
-> * 用信用卡買手機：從<mark style="color:white;background-color:purple;">債務</mark>帳戶（信用卡）到<mark style="color:white;background-color:red;">支出</mark>帳戶（娛樂）。
-> * 銀行付信用卡帳單：從<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（銀行）到<mark style="color:white;background-color:purple;">債務</mark>帳戶（信用卡）。
+> * 薪水匯入銀行：從<mark style="color:white;background-color:green;">收入</mark>帳戶（薪水）到<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（銀行），68,000元。
+> * 從銀行領錢：從<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（銀行）到<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（現金），10,000元。
+> * 用現金吃飯：從<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（現金）到<mark style="color:white;background-color:red;">支出</mark>帳戶（食物），230元。
+> * 用信用卡買手機：從<mark style="color:white;background-color:purple;">債務</mark>帳戶（信用卡）到<mark style="color:white;background-color:red;">支出</mark>帳戶（娛樂），23,200元。
+> * 銀行付信用卡帳單：從<mark style="color:gray;background-color:yellow;">資產</mark>帳戶（銀行）到<mark style="color:white;background-color:purple;">債務</mark>帳戶（信用卡），30,000元。
