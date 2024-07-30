@@ -94,7 +94,7 @@
 
 ## 匯入Daily Money+ CSV
 
-若您是從 Daily Money+ 轉移過來的舊用戶，請先在 Daily Money+ 上匯出 CSV 檔案，然後點選 `進行 CSV 匯入` 功能來匯入由 Daily Money+ 匯出的 CSV 檔案(請參考[影片](https://www.youtube.com/watch?v=IkZsiJ5TAyw))。若您所在的區域使用的千位符號及小數點格式非 `,` 及 `.`，請選取適合您的字符設定。然後再選取要匯入的 CSV 檔案。DMO會建立全新的帳本和帳戶，且同名的帳本不會被取代或覆蓋。
+若您是從 Daily Money+ 轉移過來的舊用戶，請先在 Daily Money+ 上匯出 CSV 檔案(請注意匯出時的編碼要選擇為UTF8，如果你修改過DM+裏的`喜好設定>開發者>CSV編碼`設定為其他編碼，你必需要先改回來再續出，才能在後續DMO裏進行正確的匯入)，然後點選 `進行 CSV 匯入` 功能來匯入由 Daily Money+ 匯出的 CSV 檔案(請參考[影片](https://www.youtube.com/watch?v=IkZsiJ5TAyw))。若您所在的區域使用的千位符號及小數點格式非 `,` 及 `.`，請選取適合您的字符設定。然後再選取要匯入的 CSV 檔案。DMO會建立全新的帳本和帳戶，且同名的帳本不會被取代或覆蓋。
 
 <div align="center">
 

@@ -16,7 +16,7 @@
 > * <mark style="background-color:purple;">債務</mark>：如信用卡、貸款等。
 > * <mark style="background-color:blue;">其他</mark>：其他類型的帳戶。
 >
-> 帳戶名稱可以使用點（.）來分隔，將在資產負債表裏提供更好的階層式顯示。
+> 帳戶名稱可以使用點（`.`）來分隔，將在資產負債表裏提供更好的階層式顯示。
 
 ## 帳目
 
