@@ -11,7 +11,7 @@
   * [Home](home.md)
   * [Books](book.md)
   * [Accounts](account.md)
-  * [Transactions](transaction.md)
+  * [Transactions](transaction-template.md)
   * [Balance Sheet](balancesheet.md)
   * [Balance Charts](balancechart.md)
 * Advanced Features
