@@ -4,7 +4,7 @@ DMO provides balance sheets for various fixed time periods and custom time perio
 
 ## Hierarchical Sheet
 
-When naming accounts, you can use `.` to create hierarchical account names. In the balance sheet calculation and display, accounts will be shown grouped by the parent(pseudo) account hierarchy, allowing you to understand the total value of each account and parent account.
+When naming accounts, you can use `.` to create hierarchical account names. In the balance sheet calculation and display, accounts will be shown grouped by the pseudo parent account hierarchy, allowing you to understand the total value of each account and parent account.
 
 <div align="center">
 

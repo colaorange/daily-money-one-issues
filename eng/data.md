@@ -58,7 +58,7 @@ You can set the backup `Interval Days`, `Retention Count`, and `Retention days` 
 
 ## Automatic Upload to Google Drive
 
-You can choose whether to enable the `Automatic Backup Upload` feature. Once enabled, DMO will require you to log in to your Google Drive account and grant access permissions (if you do not want to upload automatically in the future, you can log out from the login information section in the [sidebar](home.md)) of home screen.
+You can choose whether to enable the `Automatic Backup Upload` feature. Once enabled, DMO will require you to log in to your Google Drive account and grant access permissions (if you do not want to upload automatically in the future, you can log out from the login information section in the [sidepanel](home.md#side-panel)) of home screen.
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Using the `Export to JSON` feature allows you to export data such as books, acco
 
 </div>
 
-Click `Start JSON Import` to import previously exported JSON format files. At this time, you can choose the books  to import and whether to include their transactions. DMO will create new books and accounts. Books with the same name will not be replaced or overwritten.
+Click `Start JSON Import` to import previously exported JSON format files. At this time, you can choose the books to import and whether to include their transactions. DMO will create new books and accounts. Books with the same name will not be replaced or overwritten.
 
 <div align="center">
 

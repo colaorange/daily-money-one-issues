@@ -1,4 +1,4 @@
-# Balance Chart
+# Balance Charts
 
 DMO provides various balance charts for fixed time intervals and custom time intervals. Below the charts, the balance within the interval and the navigation bar for switching between times are displayed.
 
@@ -30,4 +30,4 @@ The menu at the top right of the balance charts can switch to `Pie Chart` or `Ba
 
 ## Add to Quick View
 
-Click the `Add to Quick View` icon at the top right icon of a chart to add the the balance chartto the [Quick Charts Tab](home.md) on the homescreen. For example, you can see a pie chart of this year's expenditure ratio on the quick charts tab.
+Click the `Add to Quick View` icon at the top right icon of a chart to add the the balance chartto the [Quick Charts Tab](home.md#quick-chart-tab) on the homescreen. For example, you can see a pie chart of this year's expenditure ratio on the quick charts tab.

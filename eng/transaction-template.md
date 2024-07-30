@@ -1,10 +1,10 @@
-# Transaction Template
+# Transaction Templates
 
 The Transaction Template feature is used to quickly create common transactions and provide scheduling for recurring transactions. You can create a new template using the [Create Template](transaction.md) option in the transaction list.
 
 ## Creating a Transaction Template
 
-When creating a template, the selected transaction data will be included, but the transfer time will not be. Besides providing a name for the template, you can also choose whether to apply the transfer-out account, transfer-int account, amount, and notes, which will be used when creating transactions using this template in the future.
+When creating a template, the selected transaction data will be included, but the transfer time will not be. Besides providing a name for the template, you can also choose whether to apply the withdrawals account, deposits account, value, and notes, which will be used when creating transactions using this template in the future.
 
 <div align="center">
 
@@ -38,11 +38,13 @@ You can set multiple schedules for a single transaction, with each schedule havi
 
 ## Managing Transaction Templates
 
-In the transaction template management screen, there are two tabs: `Normal` and `Schedule`, listing the created general templates and scheduled templates respectively.
+In the transaction template management screen, there are two tabs: `Normal` and `Schedule`, listing the created normal templates and scheduled templates respectively.
 
 <div align="center">
 
 <img src="imgs/transaction-template-5.png" alt="" width="375">
+
+ 
 
 <img src="imgs/transaction-template-8.png" alt="" width="375">
 
@@ -84,7 +86,7 @@ When editing a transaction template, you can modify the name, settings, and sche
 
 </div>
 
-## Quickly Calling Out a Transaction Template
+## Quickly Calling Out a Transaction Template Dialog
 
 Long press the `Start Accounting` button on the home screen to call out the transaction template dialog, and select a transaction template to create a new transaction. You can switch between normal templates and scheduled templates by clicking the icon in the upper right corner of the dialog. The scheduled template list is sorted by scheduled date from earliest to latest.
 
@@ -92,13 +94,15 @@ Long press the `Start Accounting` button on the home screen to call out the tran
 
 <img src="imgs/transaction-template-13.png" alt="" width="375">
 
+ 
+
 <img src="imgs/transaction-template-14.png" alt="" width="375">
 
 </div>
 
 ## Expired Schedule
 
-When the schedule is due or expired, a `Expired Schedule` button will appear on the home screen, showing the number of expired items. (To skip a expired schedule template, please use the `Restart` function in the transaction template list)
+When the schedule is due or expired, a `Expired Schedule` button will appear on the home screen, showing the number of expired items. (To skip a expired schedule template, please use the `Restart` function in the transaction template management screen)
 
 <div align="center">
 

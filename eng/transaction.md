@@ -8,9 +8,9 @@ Click on `Start Accounting` at the bottom right of the home screen or the `Add T
 
 1. **Basic**: A one-to-one transaction.
 2. **Advanced**: A one-to-many transaction.
-3. **Initialization**: A zero-to-one transaction.
+3. **Initiali**: A zero-to-one transaction.
 
-Typically, basic accounting is used for `Basic` transactions, `Advanced` transactions are used for [one-to-many splits](transaction.md#One-to-Many%20Split), and the `Initialization` mode is used for [Initialize Account](account.md#Initialize%20Account).
+Typically, basic accounting is used for `Basic` transactions, `Advanced` transactions are used for [One to Many Split](transaction.md#one-to-many-split), and the `Initial` mode is used for [Initialize Account](<account.md#Initialize Account>).
 
 ### Basic Transactions
 
@@ -32,7 +32,7 @@ When selecting the accounts, use the account selection tool, which lists account
 
 ### Inter-Book Transfers
 
-DMO allows for transfers between accounts in different books. When using the account selection tool, you can click the `Switch Book` icon at the top right to switch to another book and select an account from that book.
+DMO allows for transfers between accounts in different books. When using the account selection tool, you can click the `Select Book` icon at the top right to switch to another book and select an account from that book.
 
 <div align="center">
 
@@ -50,7 +50,7 @@ When selecting accounts from different books, you need to enter both the transfe
 
 ### One-to-Many Split
 
-One-to-many splits (technically many-to-many) usually occur in credit card transactions, such as purchasing groceries and daily necessities in a supermarket with a credit card, which fall under different accounts, or in paying credit card fees where foreign transaction fees were not recorded at the time of the original transaction. These scenarios are well-suited for advanced transactions. You might encounter more complex situations, and as long as your transaction amounts are correct, you can flexibly manage your transactions.
+One-to-many split (technically many-to-many) usually occur in credit card transactions, such as purchasing groceries and daily necessities in a supermarket with a credit card, which fall under different accounts, or in paying credit card fees where foreign transaction fees were not recorded at the time of the original transaction. These scenarios are well-suited for advanced transactions. You might encounter more complex situations, and as long as your transaction amounts are correct, you can flexibly manage your transactions.
 
 When adding an advanced transaction, you need to fill in the date and time of the transaction and select one or more outgoing accounts and one or more incoming accounts. Each account's amount must be entered separately. When all accounts belong to the same book, DMO will require the total outgoing amount to equal the total incoming amount. If any account belongs to a different book, this restriction does not apply.
 
@@ -76,7 +76,7 @@ DMO provides transaction lists for various fixed and custom time periods, listin
 
 ## Fixed and Custom Period Queries
 
-The menu at the top right of the transaction list allows switching between different period modes (weekly, monthly, yearly, until today/specific day) or selecting `Custom Period`.
+The menu at the top right of the transaction list allows switching between different period modes (weekly, monthly, yearly, until today/specific day) or selecting `Custom Range`.
 
 <div align="center">
 
@@ -98,7 +98,7 @@ You can edit transactions by clicking on them, or use the left and right swipe t
 
 </div>
 
-On the right side, there are `Edit`, `Copy`, and `Create Template` functions.
+On the right side, there are `Edit`, `Clone`, and `Create Template` functions.
 
 <div align="center">
 
@@ -120,7 +120,7 @@ When editing a transaction, you can change all its details. The calculation of t
 
 Cloning a transaction will copy the details of the transaction, and after editing, it will create a new transaction. This is usually used for repeating transactions. If a transaction happens very frequently, you might consider using the `Create Template` function.
 
-## Create Transaction Template
+## Create Template
 
 When creating a template, it copies the transaction details and creates a transaction template for quickly creating similar or recurring transactions in the future. For more information, refer to [Transaction Templates](transaction-template.md).
 
