@@ -15,7 +15,7 @@
   * [密碼保護](cht/password.md)
   * [小技巧](cht/tips.md)
   * [常見問題](cht/faq.md)
-* [English User Manual (TBD)](eng/README.md)
+* [English User Manual](eng/README.md)
   * [Concept](eng/concept.md)
   * [Home](eng/home.md)
   * [Books](eng/book.md)
@@ -29,4 +29,3 @@
   * [Password Protection](eng/password.md)
   * [Tips](eng/tips.md)
   * [FAQ](eng/faq.md)
-  
