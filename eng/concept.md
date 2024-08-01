@@ -22,8 +22,8 @@
 
 > A Transaction records the transfer of amounts between different accounts, such as consumption, withdrawal, deposit, or credit card usage. Examples are as follows:
 >
-> * Salary deposited into the bank: from <mark style="background-color:green;">Income</mark> account (salary) to <mark style="background-color:yellow;">Asset</mark> account (bank), 68,000 units.
-> * Withdrawing money from the bank: from <mark style="background-color:yellow;">Asset</mark> account (bank) to <mark style="background-color:yellow;">Asset</mark> account (cash), 10,000 units.
-> * Using cash to eat: from <mark style="background-color:yellow;">Asset</mark> account (cash) to <mark style="background-color:red;">Expense</mark> account (food), 230 units.
-> * Buying a phone with a credit card: from <mark style="background-color:purple;">Liability</mark> account (credit card) to <mark style="background-color:red;">Expense</mark> account (entertainment), 23,200 units.
-> * Paying the credit card bill from the bank: from <mark style="background-color:yellow;">Asset</mark> account (bank) to <mark style="background-color:purple;">Liability</mark> account (credit card), 30,000 units.
+> * Salary deposited into the bank: from <mark style="background-color:green;">Income</mark> account (salary) to <mark style="background-color:yellow;">Asset</mark> account (bank), 6,800 dollars.
+> * Withdrawing money from the bank: from <mark style="background-color:yellow;">Asset</mark> account (bank) to <mark style="background-color:yellow;">Asset</mark> account (cash), 1,000 dollars.
+> * Using cash to eat: from <mark style="background-color:yellow;">Asset</mark> account (cash) to <mark style="background-color:red;">Expense</mark> account (food), 23 dollars.
+> * Buying a phone with a credit card: from <mark style="background-color:purple;">Liability</mark> account (credit card) to <mark style="background-color:red;">Expense</mark> account (entertainment), 2,200 dollars.
+> * Paying the credit card bill from the bank: from <mark style="background-color:yellow;">Asset</mark> account (bank) to <mark style="background-color:purple;">Liability</mark> account (credit card), 3,000 dollars.
