@@ -50,7 +50,7 @@ The `Edit`, `Transaction List`, and `Initialize` functions are on the right side
 
 ## Edit Account
 
-When editing an account, you can change the account's name and type. The calculation on the balance sheet are real-time, so as long as the correct name and type are maintained, you do not need to worry about errors in the calculation results.
+When editing an account, you can change the account's name and type. The calculation on the balance sheet are real-time, so as long as the correct name and type are maintained, you do not need to worry about errors in the calculation results. Additionally, you can hide old accounts that have not been used for a long time. Hidden accounts will not appear in the account picker dialog, but if the account is included in the balance sheet and its value is not zero, it will still appear in the balance sheet.
 
 <div align="center">
 

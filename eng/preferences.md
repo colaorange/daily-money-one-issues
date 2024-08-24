@@ -40,6 +40,26 @@ Set different color themes.
 
 </div>
 
+### Transaction List Settings
+
+Configure various options within the transaction list.
+
+<div align="center">
+
+<img src="imgs/preferences-13.png" alt="" width="375">
+
+</div>
+
+### Balance Sheet Settings
+
+Configure various options within the balance sheet.
+
+<div align="center">
+
+<img src="imgs/preferences-14.png" alt="" width="375">
+
+</div>
+
 ### Order of Balance Account Type
 
 Set the order of account types in the balance sheet and chart.
