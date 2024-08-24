@@ -20,6 +20,7 @@
 * 其他功能
   * [喜好設定](preferences.md)
   * [密碼保護](password.md)
+  * [授權](license.md)  
 * 附錄
   * [小密技](tips.md)
   * [常見問題](faq.md)

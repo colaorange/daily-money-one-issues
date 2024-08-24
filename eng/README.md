@@ -20,6 +20,7 @@
 * Other Features
   * [Preferences](preferences.md)
   * [Password Protection](password.md)
+  * [License](license.md)
 * Appendix
   * [Tips](tips.md)
   * [FAQ](faq.md)

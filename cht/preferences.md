@@ -42,6 +42,26 @@
 
 </div>
 
+### 帳目列表設定
+
+設定帳目列表的內的各式選項。
+
+<div align="center">
+
+<img src="imgs/preferences-13.png" alt="" width="375">
+
+</div>
+
+### 資產負債表設定
+
+設定資產負債表的內的個式選項。
+
+<div align="center">
+
+<img src="imgs/preferences-14.png" alt="" width="375">
+
+</div>
+
 ### 資產負債帳戶類型順序
 
 設定資產負債表的帳戶類型順序。
