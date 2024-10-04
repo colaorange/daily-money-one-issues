@@ -17,6 +17,7 @@
 * Advanced Features
   * [Data Maintenance](data.md)
   * [Transaction Templates](transaction-template.md)
+  * [Server Mode](server-mode.md)
 * Other Features
   * [Preferences](preferences.md)
   * [Password Protection](password.md)
@@ -24,3 +25,4 @@
 * Appendix
   * [Tips](tips.md)
   * [FAQ](faq.md)
+  * [Desktop Application](desktop.md)
