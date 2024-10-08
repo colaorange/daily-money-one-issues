@@ -17,6 +17,8 @@
 * 進階功能
   * [資料維護](data.md)
   * [帳目範本](transaction-template.md)
+  * [伺服器模式](server-mode.md)
+  * [桌面應用程式](desktop.md)
 * 其他功能
   * [喜好設定](preferences.md)
   * [密碼保護](password.md)
